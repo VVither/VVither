@@ -1,7 +1,7 @@
 ## Hi there 👋
 - My name is Bogdan
 - I'm an aspiring python developer
-- I’m currently learning in Skillfactory school and The Founder academy
+- I’m currently learning in The Founder academy
 <!--
 **VVither/VVither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
