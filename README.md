@@ -1,7 +1,7 @@
 ## Hi there 👋
-- My name is Bogdan
+- My name is **Bogdan**
 - I'm an aspiring python developer
-- I’m currently learning in The Founder academy
+- I’m currently learning in **The Founder academy**
 - I'm currently working on a website with AI written by me.
 - You can contact me at: **kashirovb@gmail.com** and **work@kashirovb.ru**
 - 
